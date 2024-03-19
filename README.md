@@ -1,2 +1,2 @@
 # Davi-Cassio
-site ecola
+site escola
